@@ -1,0 +1,35 @@
+============================================= L4T08 - References =========================================================
+
+@ManasChhabra2. (2022). HTML <input type=”hidden”>.
+Retrieved from: https://www.geeksforgeeks.org/html-input-typehidden/
+
+HyperionDev. (2021). IFS L4T08 - MySQL in PHP.
+Retrieved from: HyperionDev IFS L4T08 documents (pdf).
+
+javaTpoint. (n.d.). MySQL Boolean.
+Retrieved from: https://www.javatpoint.com/mysql-boolean
+
+MDN Web Docs. (n.d.). <input type="hidden">.
+Retrieved from: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/hidden#value
+
+stackoverflow. (2013). Checking if column value == TRUE in php and mysql.
+Retrieved from: https://stackoverflow.com/questions/18679969/checking-if-column-value-true-in-php-and-mysql
+
+stackoverflow. (2012). If isset $_POST.
+Retrieved from: https://stackoverflow.com/questions/13045279/if-isset-post
+
+w3schools. (n.d.). PHP Superglobal - $_POST.
+Retrieved from: https://www.w3schools.com/php/php_superglobals_post.asp
+
+w3schools. (n.d.). HTML hidden Attribute.
+Retrieved from: https://www.w3schools.com/tags/att_hidden.asp
+
+w3schools. (n.d.). PHP MySQL Prepared Statements.
+Retrieved from: https://www.w3schools.com/php/php_mysql_prepared_statements.asp
+
+w3schools. (n.d.). SQL ALTER TABLE Statement.
+Retrieved from: https://www.w3schools.com/sql/sql_alter.asp
+
+Wikipedia. (2022). SQL injection.
+Retrieved from: https://en.wikipedia.org/wiki/SQL_injection
+
